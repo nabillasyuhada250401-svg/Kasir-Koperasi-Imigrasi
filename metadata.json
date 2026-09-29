@@ -1,0 +1,6 @@
+{
+  "name": "KasirKu - POS & Laporan WhatsApp",
+  "description": "Aplikasi kasir modern dengan stok real-time, cetak struk JPG thermal, sistem poin pelanggan (10rb = 1 poin), laporan harian WhatsApp, dan dashboard pendapatan bulanan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
